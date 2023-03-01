@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "+YysCmkSzXdPdKe968rd00OIYLIVuyAwtx83OgnCyf0=",
+  "Source": "MicroserviceMail",
+  "BasePath": "_content/MicroserviceMail",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
